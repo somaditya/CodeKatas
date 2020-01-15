@@ -1,2 +1,3 @@
-# Katas
-Short practice codes for Core Java, OOP, Design Patterns etc.
+# Code Katas
+
+* For honing programming skills through practice and repitition.
