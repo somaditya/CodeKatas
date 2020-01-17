@@ -1,7 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="848c0f3b-5606-4907-a731-93e3ad88f10b" name="Default Changelist" comment="" />
+    <list default="true" id="8149a380-587b-4463-94ef-e63b942a9b46" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../java/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/sbt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/java-katas.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/src/test/java/com/somaditya/katas/ds/CharFreq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/src/test/java/com/somaditya/katas/ds/CharFreqTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/scala-katas-build.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/scala-katas.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/scala-build.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/scala.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sbt.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sbt.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/scala_compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$7634c692f0fc9c60939b$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$7634c692f0fc9c60939b.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$7634c692f0fc9c60939b.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$e21fc91dd10cdc14f4a4$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$e21fc91dd10cdc14f4a4.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$e21fc91dd10cdc14f4a4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$e3fa63bdccd2e157b6da$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$e3fa63bdccd2e157b6da.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$e3fa63bdccd2e157b6da.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$ebe8ea1b212d20c46dee$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$ebe8ea1b212d20c46dee.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$ebe8ea1b212d20c46dee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/_global/_global/compileOutputs/previous" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/_global/_global/compileOutputs/previous" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/exportedProducts/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/exportedProducts/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/exportedProducts/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/exportedProducts/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/internalDependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/internalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/update/update_cache_2.13/output" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/update/update_cache_2.13/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/_global/_global/checkBuildSources/_global/inputFileStamps/previous" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/_global/checkBuildSources/_global/inputFileStamps/previous" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.13/output" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.13/output" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,17 +64,14 @@
       <ProjectState />
     </projectState>
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Scala Worksheet" />
-      </list>
-    </option>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
-  <component name="ProjectId" id="1WQjcEuu8YFnqObMaQDZIBXYYsH" />
+  <component name="ProjectId" id="1WUVYB6vhtTPYgVE6QKGSM2WfkW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="flattenPackages" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -34,28 +80,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
-  </component>
-  <component name="RunManager">
-    <configuration name="Scala REPL" type="ScalaScriptConsoleRunConfiguration" factoryName="Scala Console" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
-      <module name="scala" />
-      <option name="allowRunningInParallel" value="false" />
-      <option name="javaOptions" value="-Djline.terminal=NONE" />
-      <option name="myConsoleArgs" value="" />
-      <option name="workingDirectory" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Scala REPL.Scala REPL" />
-      </list>
-    </recent_temporary>
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="SbtLocalSettings">
     <option name="availableProjects">
@@ -70,7 +96,7 @@
           <value>
             <list>
               <ExternalProjectPojo>
-                <option name="name" value="scala [file:/Users/asisbasak/Documents/workspace/scala/]" />
+                <option name="name" value="scala [file:/Users/asisbasak/Documents/workspace/Dojo/scala/]" />
                 <option name="path" value="$PROJECT_DIR$" />
               </ExternalProjectPojo>
               <ExternalProjectPojo>
@@ -84,6 +110,7 @@
     </option>
     <option name="modificationStamps">
       <map>
+        <entry key="$PROJECT_DIR$" value="3158408277218" />
         <entry key="$PROJECT_DIR$/build.sbt" value="151351889" />
         <entry key="$PROJECT_DIR$/project/build.properties" value="3666975207" />
       </map>
@@ -94,46 +121,18 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="848c0f3b-5606-4907-a731-93e3ad88f10b" name="Default Changelist" comment="" />
-      <created>1579088789133</created>
+      <changelist id="8149a380-587b-4463-94ef-e63b942a9b46" name="Default Changelist" comment="" />
+      <created>1579204205549</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1579088789133</updated>
+      <updated>1579204205549</updated>
     </task>
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="320" y="127" key="#Project_Structure" timestamp="1579091502313">
+    <state x="397" y="294" key="com.intellij.ide.util.TipDialog" timestamp="1579288392163">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="320" y="127" key="#Project_Structure/0.23.1440.877@0.23.1440.877" timestamp="1579091502313" />
-    <state x="476" y="337" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1579095253656">
-      <screen x="0" y="23" width="1440" height="877" />
-    </state>
-    <state x="476" y="337" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.23.1440.877@0.23.1440.877" timestamp="1579095253656" />
-    <state width="1398" height="230" key="GridCell.Tab.0.bottom" timestamp="1579101104826">
-      <screen x="0" y="23" width="1440" height="877" />
-    </state>
-    <state width="1398" height="230" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1579101104826" />
-    <state width="1398" height="230" key="GridCell.Tab.0.center" timestamp="1579101104825">
-      <screen x="0" y="23" width="1440" height="877" />
-    </state>
-    <state width="1398" height="230" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1579101104825" />
-    <state width="1398" height="230" key="GridCell.Tab.0.left" timestamp="1579101104824">
-      <screen x="0" y="23" width="1440" height="877" />
-    </state>
-    <state width="1398" height="230" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1579101104824" />
-    <state width="1398" height="230" key="GridCell.Tab.0.right" timestamp="1579101104826">
-      <screen x="0" y="23" width="1440" height="877" />
-    </state>
-    <state width="1398" height="230" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1579101104826" />
-    <state x="139" y="23" width="1126" height="877" key="SettingsEditor" timestamp="1579108964274">
-      <screen x="0" y="23" width="1440" height="877" />
-    </state>
-    <state x="139" y="23" width="1126" height="877" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1579108964274" />
-    <state x="409" y="294" key="com.intellij.ide.util.TipDialog" timestamp="1579109408085">
-      <screen x="0" y="23" width="1440" height="877" />
-    </state>
-    <state x="409" y="294" key="com.intellij.ide.util.TipDialog/0.23.1440.877@0.23.1440.877" timestamp="1579109408085" />
+    <state x="397" y="294" key="com.intellij.ide.util.TipDialog/0.23.1440.877@0.23.1440.877" timestamp="1579288392163" />
   </component>
 </project>
