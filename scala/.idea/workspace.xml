@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5b263400-12ae-4181-b0c3-d01b849a7839" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/Sequence.sc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/scala_compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/intro/Tuples.sc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/ForList.sc" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/intro/ForList.sc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/PersonTest.sc" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/intro/PersonTest.sc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/Sequence.sc" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/intro/Sequence.sc" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +47,11 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/scala/intro" />
+    </key>
   </component>
   <component name="SbtLocalSettings">
     <option name="availableProjects">
