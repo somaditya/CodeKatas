@@ -15,7 +15,7 @@ x = 6
 x += x - x
 print(x)
 
-# z = 4*--------8
+print(4 * --------8)
 # 8 = students
 print((((3 ** 6))))
 
@@ -27,10 +27,7 @@ print(-(-(-(-(9)))))
 # abs
 
 def abs_diff(a, b):
-    diff = a - b
-    if diff < 0:
-        diff = -(diff)
-    return diff
+    return abs(a - b)
 
 
 print(abs_diff(-3, -7))
@@ -44,14 +41,27 @@ print(avg_grade(100, 50, 30))
 
 
 def avg_top_3(g1, g2, g3, g4):
-    if g1 < g2 and g1 < g3 and g1 < g4:
-        return avg_grade(g2, g3, g4)
-    elif g2 < g1 and g2 < g3 and g2 < g4:
-        return avg_grade(g1, g3, g4)
-    elif g3 < g1 and g3 < g2 and g3 < g4:
-        return avg_grade(g1, g2, g4)
-    else:
-        return avg_grade(g1, g2, g3)
+    list = [g1, g2, g3, g4]
+    list.sort()
+    # print(list)
+    top_3 = list[1:]
+    return avg_grade(top_3[0], top_3[1], top_3[2])
 
 
 print(avg_top_3(40, 20, 30, 40))
+
+x = 4
+y = 11.5
+
+print("The rabbit is ", x, ".")
+print("The rabbit is ", x, " years old.")
+print(str(y) + " is average")
+
+# num = input("Enter a float number:")
+# print(num)
+
+pH = float(input("Enter pH level: "))
+if pH < 7.0:
+    print("Acidic")
+elif pH < 4.0:
+    print("Strong Acid")
