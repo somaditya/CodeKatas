@@ -61,7 +61,7 @@ print(str(y) + " is average")
 # print(num)
 
 pH = float(input("Enter pH level: "))
-if pH < 7.0:
-    print("Acidic")
-elif pH < 4.0:
+if pH < 4.0:
     print("Strong Acid")
+elif pH < 7.0:
+    print("Acidic")
