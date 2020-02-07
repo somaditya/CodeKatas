@@ -12,7 +12,7 @@ def main():
     leap_count = 0
 
     for year in (range(2000, 2050)):
-        if (calendar.isleap(year)):
+        if calendar.isleap(year):
             leap_count += 1
 
     print("leap years:", leap_count)
