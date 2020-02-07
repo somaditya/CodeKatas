@@ -106,6 +106,23 @@ def main():
     for n in range(34, 52):
         print(n, end=" ")
 
+    print()
+
+    for n in range(11, 0, -1):
+        print(n, end=" ")
+
+    def find_dups(list_ints=[]):
+        dups_list = []
+
+        for item in list_ints:
+            if list_ints.count(item) > 1:
+                dups_list.append(item)
+
+        return set(dups_list)
+
+    print()
+    print(find_dups([1, 2, 3, 4, 5, 3, 4, 5, 5]))
+
 
 if __name__ == "__main__":
     main()

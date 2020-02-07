@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="acf20c77-0223-4fff-b0fe-011c017ac4c8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/day_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/day_2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/day_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/day_3.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,8 +15,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/day_3.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="35" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="35" />
+            <state relative-caret-position="328">
+              <caret line="124" lean-forward="true" selection-start-line="124" selection-end-line="124" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
@@ -219,8 +218,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/day_3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="35" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="35" />
+        <state relative-caret-position="328">
+          <caret line="124" lean-forward="true" selection-start-line="124" selection-end-line="124" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
