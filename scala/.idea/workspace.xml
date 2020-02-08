@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5b263400-12ae-4181-b0c3-d01b849a7839" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/intro/Tuples.sc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/ForList.sc" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/intro/ForList.sc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/PersonTest.sc" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/intro/PersonTest.sc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/Sequence.sc" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/intro/Sequence.sc" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,6 +76,7 @@
     </option>
     <option name="modificationStamps">
       <map>
+        <entry key="$PROJECT_DIR$" value="3158408277218" />
         <entry key="$PROJECT_DIR$/build.sbt" value="151351889" />
         <entry key="$PROJECT_DIR$/project/build.properties" value="3666975207" />
       </map>
@@ -97,5 +94,11 @@
       <updated>1580047058094</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="397" y="294" key="com.intellij.ide.util.TipDialog" timestamp="1580563832303">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="397" y="294" key="com.intellij.ide.util.TipDialog/0.23.1440.877@0.23.1440.877" timestamp="1580563832303" />
   </component>
 </project>
