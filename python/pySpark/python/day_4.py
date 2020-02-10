@@ -39,7 +39,7 @@ print(count_values(color))
 
 
 # 26
-def dict_intersect(dict1 = {}, dict2 =  {}):
+def dict_intersect(dict1={}, dict2={}):
     intersect = {}
 
     for key in dict1.keys():
