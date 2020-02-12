@@ -39,14 +39,12 @@ print(count_values(color))
 
 
 # 26
-def dict_intersect(dict1, dict2):
+def dict_intersect(dict1={}, dict2={}):
     intersect = {}
 
-    for pair1 in dict1.items():
-        for pair2 in dict2.items():
-            if pair1 == pair2:
-                # print(pair1, '##', pair2)
-                intersect[pair1[0]] = pair1[1]
+    for key in dict1.keys():
+        if dict1.get(key) == dict2.get(key):
+            intersect[key] = dict1.get(key)
 
     return intersect
 
