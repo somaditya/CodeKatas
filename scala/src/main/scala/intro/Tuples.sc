@@ -8,4 +8,4 @@ val (num, string, person) = t1
 
 println(num)
 println(string)
-println(person)
+println(person.name)
