@@ -1,3 +1,3 @@
 # Code Katas
 
-* For honing programming skills through practice and repitition.
+* For honing programming skills through practice and repetition.
