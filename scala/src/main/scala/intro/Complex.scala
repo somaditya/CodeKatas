@@ -4,7 +4,7 @@ class Complex(real: Double, imaginary: Double) {
   def re = real
   def im = imaginary
 
-  override def toString: String = re.toString + (if (im > 0) s" + $im" + "i" else "")
+  override def toString: String = re + (if (im > 0) s" + $im" + "i" else "")
 }
 
 object ComplexTest {
