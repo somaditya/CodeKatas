@@ -23,7 +23,7 @@ def mating_pairs(set1, set2):
 print(mating_pairs(males, females))
 
 color = {'red': 1, 'green': 1, 'blue': 2}
-color2 = {'red': 1, 'blue': 2}
+color2 = {'red': 1, 'blue': 2, 'black': 3}
 
 
 def count_values(dict):
