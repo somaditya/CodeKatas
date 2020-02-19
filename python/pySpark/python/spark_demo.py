@@ -3,8 +3,8 @@ from pyspark import SparkContext
 
 def main():
     sc = SparkContext.getOrCreate()
-    emp = SparkContext.textFile(sc, "emp.txt")
-    dept = SparkContext.textFile(sc, "dept.txt")
+    emp = SparkContext.textFile(sc, "C:\\Users\\somadityab\\Documents\\workspace\\Dojo\\python\\pySpark\\etl\\emp.txt")
+    dept = SparkContext.textFile(sc, "C:\\Users\\somadityab\\Documents\\workspace\\Dojo\\python\\pySpark\\etl\\dept.txt")
 
     emp_data = emp.filter(lambda x: x != "emp_id,emp_name,emp_dept" and int(x.split(",")[0]) % 2 == 0).collect()
 
