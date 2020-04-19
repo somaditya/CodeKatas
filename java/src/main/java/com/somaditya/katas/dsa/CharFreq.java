@@ -1,4 +1,4 @@
-package com.somaditya.katas.ds;
+package com.somaditya.katas.dsa;
 
 import java.util.HashMap;
 

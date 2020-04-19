@@ -1,8 +1,6 @@
-package com.somaditya.katas.ds;
+package com.somaditya.katas.dsa;
 
-import junit.framework.Test;
 import junit.framework.TestCase;
-import junit.framework.TestSuite;
 
 import java.util.HashMap;
 
