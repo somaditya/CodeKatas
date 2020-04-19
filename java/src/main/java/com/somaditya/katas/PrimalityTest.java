@@ -10,8 +10,6 @@ import java.util.regex.*;
 
 public class PrimalityTest {
     
-    
-    
     private static final Scanner scanner = new Scanner(System.in);
     
     public static void main(String[] args) {
