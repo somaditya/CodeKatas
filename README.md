@@ -1,3 +1,3 @@
-# Code Katas
+# Dojo
 
-* For honing programming skills through practice and repetition.
+* Programming skills through practice and repetition.
