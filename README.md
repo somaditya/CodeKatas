@@ -1,3 +1,3 @@
 # Dojo
 
-* Programming skills through practice and repetition.
+* Solved DSA problems.
