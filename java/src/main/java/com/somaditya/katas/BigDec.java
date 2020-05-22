@@ -17,7 +17,7 @@ class BigDec {
         ArrayList<BigDecimal> list = new ArrayList<>();
         
         for (int i = 0; i < n; i++) {
-            list.add(new BigDecimal(s[i]).);
+            list.add(new BigDecimal(s[i]));
         }
         
         list.sort(null);
