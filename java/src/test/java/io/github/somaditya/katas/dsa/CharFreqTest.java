@@ -1,4 +1,4 @@
-package com.somaditya.katas.dsa;
+package io.github.somaditya.katas.dsa;
 
 import junit.framework.TestCase;
 

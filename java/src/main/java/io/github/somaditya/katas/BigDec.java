@@ -1,4 +1,4 @@
-package com.somaditya.katas;
+package io.github.somaditya.katas;
 
 import java.math.BigDecimal;
 import java.util.*;

@@ -1,4 +1,4 @@
-package com.somaditya.katas.strings;
+package io.github.somaditya.katas.strings;
 
 import java.io.*;
 import java.util.*;

@@ -1,4 +1,4 @@
-package com.somaditya.katas;
+package io.github.somaditya.katas;
 
 /**
  * Hello world!
